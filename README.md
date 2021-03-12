@@ -1,6 +1,6 @@
 # Deploying-WordPress-Application-On-Kubernetes-With-AWS-RDS-Using-Terraform
 
-<b>Write Terraform code that does the following operations in the managed nodes</b>
+<b>Write Terraform code that does the following operations in the <i>AWS</i></b>
 <ul>
 <li>Writing an Infrastructure as code using Terraform, which automatically deploys the WordPress application</li>
 <li>On AWS, use RDS service for the relational database for WordPress application</li>
